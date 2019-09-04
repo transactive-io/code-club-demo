@@ -97,8 +97,8 @@ module.exports = function (ctx) {
       // workboxPluginMode: 'InjectManifest',
       // workboxOptions: {}, // only for NON InjectManifest
       manifest: {
-        // name: 'Unicorn City',
-        // short_name: 'Unicorn City',
+        // name: 'Code Club Demo App',
+        // short_name: 'Code Club Demo App',
         // description: 'A Quasar Framework app',
         display: 'standalone',
         orientation: 'portrait',
@@ -163,7 +163,7 @@ module.exports = function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        // appId: 'unicorn-city'
+        // appId: 'code-club-demo'
       }
     }
   }
