@@ -2,6 +2,10 @@
 
 A Quasar Framework app
 
+## Quasar documentation and tutorials
+
+https://quasar.dev/introduction-to-quasar
+
 ## Install the dependencies
 ```bash
 npm install
